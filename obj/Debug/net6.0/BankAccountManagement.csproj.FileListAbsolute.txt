@@ -1,0 +1,15 @@
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\bin\Debug\net6.0\BankAccountManagement.exe
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\bin\Debug\net6.0\BankAccountManagement.deps.json
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\bin\Debug\net6.0\BankAccountManagement.runtimeconfig.json
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\bin\Debug\net6.0\BankAccountManagement.dll
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\bin\Debug\net6.0\BankAccountManagement.pdb
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\obj\Debug\net6.0\BankAccountManagement.csproj.AssemblyReference.cache
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\obj\Debug\net6.0\BankAccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\obj\Debug\net6.0\BankAccountManagement.AssemblyInfoInputs.cache
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\obj\Debug\net6.0\BankAccountManagement.AssemblyInfo.cs
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\obj\Debug\net6.0\BankAccountManagement.csproj.CoreCompileInputs.cache
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\obj\Debug\net6.0\BankAccountManagement.dll
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\obj\Debug\net6.0\refint\BankAccountManagement.dll
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\obj\Debug\net6.0\BankAccountManagement.pdb
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\obj\Debug\net6.0\BankAccountManagement.genruntimeconfig.cache
+D:\HOANGVIET\GreenWich\GCD1103\Advanced Programming\BT\BankAccountManagement\BankAccountManagement\obj\Debug\net6.0\ref\BankAccountManagement.dll
